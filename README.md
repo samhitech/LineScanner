@@ -17,7 +17,8 @@ The acquired frames are sent continuously via serial port as an array of 260 byt
 
 The LineScanner is part of the [microEye](https://github.com/samhitech/microEye) microscopy control system and is used to track the peak position of a totally internally reflected IR beam to achieve automatic focus stabilization.
 
-![control_module](https://user-images.githubusercontent.com/89871015/135933716-c1456b9d-7e30-4573-9c32-8c28db2187ae.png)
+![control_module](https://user-images.githubusercontent.com/89871015/141841883-d37c4979-c8aa-4e1f-b1b9-84bdd819c828.png)
+
 
 ## Authors
 
